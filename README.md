@@ -1,1 +1,1 @@
-This is  my first repository .And i made this one for practice purpose
+This is  my first repository .And I have made this one for practice purpose
